@@ -10,12 +10,12 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
+- name: @inthevalleydsm
+  pic: inthevalleydsm
   position: Lead Designer
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/inthevalleydsm
     - title: facebook
       url: #
     - title: stack-overflow
