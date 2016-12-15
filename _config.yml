@@ -15,22 +15,22 @@ people:
   position: Lead Designer
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://twitter.com/inthevalleydsm
+ #   - title: facebook
+ #     url: #
+ #   - title: stack-overflow
+ #     url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+#- name: Larry Parker
+#  pic: 2
+#  position: Lead Marketer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: linkedin
+#      url: #
 
 - name: Diana Petersen
   pic: 3
