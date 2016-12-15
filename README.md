@@ -1,30 +1,18 @@
-Agency Jekyll theme
+inthevalleydsm
 ====================
 
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+Site: [inthevalleydsm](https://inthevalleydsm.github.io/)
 
-# How to use
+Twitter: [@inthevalleydsm](https://twitter.com/inthevalleydsm)
 
-###Portfolio 
+# About
+3rd Thur 7AM @ The Forge (1420 Locust St, Des Moines, IA 50309). Headlines praise startups that make it big but are silent during their formation. We focus on the space between the pitch and public.
 
-Portfolio projects are in '/_posts'
+# Twitter
 
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+Our Twits:
+* [@inthevalleydsm](https://twitter.com/inthevalleydsm)
+* [@selichter](https://twitter.com/selichter)
+* [@joshmccall](https://twitter.com/joshmccall)
 
 =========
-For more details, read [documentation](http://jekyllrb.com/)
